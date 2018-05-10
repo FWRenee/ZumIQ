@@ -1,0 +1,13 @@
+Frequently Asked Questions
+
+I don't see "Local Area Connection" when I am trying to set network sharing.
+What you see will depend on the OS of your computer.  Mine says "Ethernet" or "Ethernet 2".  If you choose the correct one and your hardware is connected correctly, you will see both listed when you go to "Network and Sharing Center".  If you don't see both "Ethernet" AND "Wi-Fi" listed, something isn't connected correctly.  Make sure you select the right networks to share and your cables are connected.  Docking stations cause issues, as well.
+
+Issues with downloading the config file?  
+Windows Edge may not allow you to "save link as" or "save as" the config file.  Try using Chrome.
+
+The config file "disappears" when you drag/drop it!
+That's what its supposed to do.  Its updating the config.txt file.
+
+Putty is timing out.
+Make sure you're using the correct IP address.  You can verify with the config.txt file.  Make sure sharing is happening; see above for troubleshooting.  Make sure you have the right Putty settings.
